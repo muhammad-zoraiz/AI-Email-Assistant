@@ -4,6 +4,10 @@ AI Email Assistant is a simple AI-powered web application that generates emails 
 
 The project was built as a practical introduction to working with APIs, Large Language Models (LLMs), environment variables, and Streamlit.
 
+## Live Demo
+
+[Open AI Email Assistant](https://muhammad-zoraiz-ai-email.streamlit.app/)
+
 ## Features
 
 - Generate complete emails using AI
